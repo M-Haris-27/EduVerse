@@ -2,9 +2,6 @@
 
 **EduVerse** is a modern, AI-integrated EdTech platform built using the MERN stack. It’s designed to transform online learning by focusing on **accessibility**, **interactivity**, and **inclusiveness**. Whether you're a tutor creating courses or a student navigating learning content, EduVerse ensures a smooth, engaging, and immersive experience.
 
-🌐 [Live Demo]()  
-💻 [GitHub Repository](https://github.com/AbdulMoiz2493/EduVerse)
-
 ---
 
 ## 🚀 Features
@@ -125,10 +122,9 @@ MIT License – Free to use, modify, and contribute.
 
 For any queries, feedback, or collaboration opportunities, feel free to reach out:
 
-**Abdul Moiz**  
-- 📧 Email: abdulmoiz8895@gmail.com  
-- 🔗 GitHub: [@AbdulMoiz2493](https://github.com/AbdulMoiz2493)
-- 🔗 Portfolio: [abdul-moiz.tech](https://www.abdul-moiz.tech)
+**Muhammad Haris**  
+- 📧 Email: haris54955@gmail.com  
+- 🔗 GitHub: [M-Haris-27](https://github.com/M-Haris-27)
 
 --- 
 
